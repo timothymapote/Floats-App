@@ -7,5 +7,6 @@ Screenshots of the app
 ![IMG_0103 Small](https://user-images.githubusercontent.com/107364882/173247445-35ae98b2-0bba-4c7c-9fde-6b06b50a3079.jpeg)
 
 Video of demo App
-Uploading BACE3C0C-E655-4CFF-A3C4-AC2C11B4C621.mov…
+
+https://user-images.githubusercontent.com/107364882/173250622-d43eceb3-d68d-479a-8d05-55c5e141a49c.mov
 
