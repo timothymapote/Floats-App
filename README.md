@@ -1,6 +1,6 @@
 # Floats App
 
-About this App: i made this app 2 months ago. Its one of my cousin's business in the philippines, its not completed yet,  but its almost done. 
+About this App: i made this app, months ago while working a full time job. Its one of my cousin's business in the philippines, its not completed yet, but its almost done. 
 
 Screenshots of the app
 
