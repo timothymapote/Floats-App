@@ -1,5 +1,7 @@
 # Floats App
 
+About this App: its one of my cousin's business in the philippines, its not completed yet, but its almost done. 
+
 Screenshots of the app
 
 ![IMG_0101 Small](https://user-images.githubusercontent.com/107364882/173247425-6c326463-ee37-4d63-8cc6-3be2da7b0dca.jpeg)
@@ -10,3 +12,5 @@ Video of demo App
 
 https://user-images.githubusercontent.com/107364882/173250622-d43eceb3-d68d-479a-8d05-55c5e141a49c.mov
 
+Facebook page of the business:
+https://www.facebook.com/FloatsPhilippines
