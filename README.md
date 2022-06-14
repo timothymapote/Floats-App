@@ -1,6 +1,6 @@
 # Floats App
 
-About this App: i made this app, months ago while working a full time job. Its a food ordering app. Its one of my cousin's business in the philippines, its almost done and can be publish to app store soon.
+About this App: i made this app, while working a full time job. Its a food ordering app. Its one of my cousin's business in the philippines, its almost done and can be publish to app store soon.
 
 Screenshots of the app
 
