@@ -1,16 +1,13 @@
 # Floats App
 
-About this App: i made this app, while working a full time job. A food ordering app. Its one of my cousin's business in the philippines, almost done and can be publish to app store soon.
+About this App: Its a food ordering app. Its one of my client's business in the philippines, our goal to the app is to make the user interface easy and simple for the customers. The app is done and ready to submit to app store.
 
-Screenshots of the app
+Video of the App
 
-![IMG_0101 Small](https://user-images.githubusercontent.com/107364882/173247425-6c326463-ee37-4d63-8cc6-3be2da7b0dca.jpeg)
-![IMG_0102 Small](https://user-images.githubusercontent.com/107364882/173247430-ddcbc446-2a53-4023-a5e8-c2e6c189e99e.jpeg)
-![IMG_0103 Small](https://user-images.githubusercontent.com/107364882/173247445-35ae98b2-0bba-4c7c-9fde-6b06b50a3079.jpeg)
+https://user-images.githubusercontent.com/107364882/175368978-e5d87f87-bd97-479a-acd7-e3493b724648.mp4
 
-Video of demo App
 
-https://user-images.githubusercontent.com/107364882/173250622-d43eceb3-d68d-479a-8d05-55c5e141a49c.mov
+
 
 Facebook page of the business:
 https://www.facebook.com/FloatsPhilippines
