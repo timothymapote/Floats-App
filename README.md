@@ -5,6 +5,7 @@ About this App: Its a food ordering app. Its one of my client's business in the 
 Video of the App
 
 https://user-images.githubusercontent.com/107364882/175368978-e5d87f87-bd97-479a-acd7-e3493b724648.mp4
+https://user-images.githubusercontent.com/107364882/175369729-a950bfe4-643a-4914-a98e-0c81f5f98ae9.mp4
 
 
 
