@@ -1,6 +1,6 @@
 # Floats App
 
-About this App: Its a food ordering app (floats). business beverage in the philippines, our goal to the app is to make the user interface easy and simple for the customers. The app is done and ready to submit to app store.
+About this App: Its a food ordering app (floats). business beverage in the philippines, the goal of app is to make the user interface easy and simple for the customers. The app is done and ready to submit to app store.
 
 Video of the App
 
